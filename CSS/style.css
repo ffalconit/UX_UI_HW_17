@@ -1,0 +1,100 @@
+/*header */
+.navigation .inline-block{
+    vertical-align: top;
+    flex-direction: row;
+    margin: 10px 35px 10px 35px;
+   /* background-color: antiquewhite;*/
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Passions Conflict', cursive;
+font-family: 'Roboto Flex', sans-serif;   
+color: darkslategray;
+}
+.navigation{
+    display: flex;
+}
+
+img{
+    margin: 10px;
+    align-items: center;
+    justify-items: center;
+    height: 50px;
+}
+nav{
+    width: 100%;
+    padding: 5px;
+   }
+ul{
+    /*width: 50%;*/
+    margin-left:50%;
+}
+
+/*Intro */
+#title{
+    font-size: 24px;
+    color: darkblue;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Passions Conflict', cursive;
+    font-family: 'Roboto Flex', sans-serif;  
+}
+/* Case study cards*/
+
+/* Case study card 1 */
+.titlecard{
+    text-align: center;
+    font-size: 24px;
+    color: white;
+}
+.bodycard{
+    font-size: 16px;
+     text-align: center;
+    color:white;
+}
+.flex-container{
+    display:flex;
+    padding: 25px;
+}
+.card1{
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 250px;
+    background: linear-gradient(0deg, rgba(242, 101, 101, 84%), rgba(242, 101, 101, 84%)),url(/images/caseStudy1.png);
+    background-size:cover;
+    margin-left: auto;
+    margin-right: 10px;
+    padding-top: 70px;
+    border-radius: 15px;
+    }
+.card2{
+        background-repeat: no-repeat;
+        height: 200px;
+        width: 250px;
+        background:linear-gradient(0deg, rgba(58, 74, 96, 84%), rgba(58, 74, 96, 84%)), url(/images/caseStudy2.png);
+        background-size:cover;
+        margin-left: 10px;
+        margin-right: auto;
+        padding-top: 70px;
+        border-radius: 15px;
+}
+
+/* Footer */
+footer{
+   background-color: lightgrey;
+  /*   display: inline-block; 
+    vertical-align: top;
+    flex-direction: row;
+    text-align:center;*/
+    display: flex;
+     margin: 15px;
+    padding-left: 24%;
+ }
+ #bottom{
+    margin:10px;
+ }
+.inline-block{
+    display: inline-block;
+    vertical-align: top;
+    flex-direction: row;
+} 
