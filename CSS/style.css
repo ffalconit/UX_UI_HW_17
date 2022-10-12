@@ -60,7 +60,7 @@ ul{
     background-repeat: no-repeat;
     height: 175px;
     width: 250px;
-    background: linear-gradient(0deg, rgba(242, 101, 101, 84%), rgba(242, 101, 101, 84%)),url(/../images/caseStudy1.png);
+    background: linear-gradient(0deg, rgba(242, 101, 101, 84%), rgba(242, 101, 101, 84%)),url(../images/caseStudy1.png);
     background-size:cover;
     margin-left: auto;
     margin-right: 10px;
@@ -92,7 +92,7 @@ ul{
     background-repeat: no-repeat;
     height: 175px;
     width: 250px;
-    background: linear-gradient(0deg, rgba(16, 92, 140, 74%), rgba(16, 92, 140, 74%)),url(/../images/caseStudy3.png);
+    background: linear-gradient(0deg, rgba(16, 92, 140, 74%), rgba(16, 92, 140, 74%)),url(../images/caseStudy3.png);
     background-size:cover;
     margin-left: auto;
     margin-right: 10px;
@@ -106,7 +106,7 @@ ul{
         background-repeat: no-repeat;
         height: 175px;
         width: 250px;
-        background:linear-gradient(0deg, rgba(49, 95, 48, 80%), rgba(49, 95, 48, 80%)), url(/../images/caseStudy4.png);
+        background:linear-gradient(0deg, rgba(49, 95, 48, 80%), rgba(49, 95, 48, 80%)), url(../images/caseStudy4.png);
         background-size:cover;
         margin-left: 10px;
         margin-right: auto;
